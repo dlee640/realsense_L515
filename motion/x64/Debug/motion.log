@@ -1,0 +1,12 @@
+﻿  rs-motion.cpp
+C:\Program Files (x86)\Intel RealSense SDK 2.0\samples\motion\rs-motion.cpp(118,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Program Files (x86)\Intel RealSense SDK 2.0\samples\motion\rs-motion.cpp(119,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Program Files (x86)\Intel RealSense SDK 2.0\samples\motion\rs-motion.cpp(120,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Program Files (x86)\Intel RealSense SDK 2.0\samples\motion\rs-motion.cpp(125,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Program Files (x86)\Intel RealSense SDK 2.0\samples\motion\rs-motion.cpp(153,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Program Files (x86)\Intel RealSense SDK 2.0\samples\motion\rs-motion.cpp(179,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Program Files (x86)\Intel RealSense SDK 2.0\samples\motion\rs-motion.cpp(202,1): warning C4305: '=': truncation from 'double' to 'float'
+  motion.vcxproj -> C:\Program Files (x86)\Intel RealSense SDK 2.0\samples\x64\Debug\motion.exe
+  Copy Intel RealSense SDK 2.0 shared module next to the application
+  C:\Program Files (x86)\Intel RealSense SDK 2.0\bin\x64\realsense2.dll
+  1 File(s) copied
